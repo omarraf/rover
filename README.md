@@ -6,7 +6,7 @@ This repository contains the code used for the rover competition I participated 
 
 This rover was built using Legos and coded in Python. It includes functionalities like:
 - **Basic movement** (forward, backward, turn)
-- **Retrieval (Rocks, smaller rovers) **
+- **Retrieval** (Rocks, smaller rovers)
 - **Speed control**
 
 
