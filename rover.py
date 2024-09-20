@@ -44,15 +44,6 @@ def identifyMineral():
 def pickUp():
     # close arms to retrieve rock or other item
     motor.run_for_degrees(motor_pair.PAIR_2, 50, 1000) 
-
-
-
-
-
-
-
-    
-
     
 
 runloop.run(main())
