@@ -1,8 +1,5 @@
-# **Rover Competition - Code Overview**
 
-This repository contains the code used for the rover competition I participated in. The rover was designed by myself and a team of engineers, and this is a simplified version of the code I created that controlled the rover's basic movements and functionalities.
-
-## **Rover Overview**
+# **Rover Overview**
 
 This rover was built using Legos and coded in Python. It includes functionalities like:
 - **Basic movement** (forward, backward, turn)
