@@ -1,7 +1,7 @@
 
 # **Rover Overview**
 
-This rover was built using Legos and coded in Python. It includes functionalities like:
+This rover was coded in Python. It includes functionalities like:
 - **Basic movement** (forward, backward, turn)
 - **Retrieval** (Rocks, smaller rovers)
 - **Speed control**
